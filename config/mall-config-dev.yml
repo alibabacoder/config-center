@@ -1,1 +1,3 @@
-
+redis:
+  name: ok
+  database: 10
